@@ -1,8 +1,6 @@
 # Itamae::Plugin::Recipe::Tig
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/itamae/plugin/recipe/tig`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+[Itamae](https://github.com/itamae-kitchen/itamae) plugin to install [tig](https://github.com/jonas/tig)
 
 ## Installation
 
@@ -22,7 +20,33 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+### Recipe
+```ruby
+# recipe.rb
+
+# itamae v1.5.2 or later
+include_recipe "tig"
+
+# older
+include_recipe "tig::default"
+```
+
+### Node
+```yml
+# node.yml
+tig:
+  # tig prefix (default: /usr/local)
+  prefix: /usr/local
+  
+  # source dir (default: /usr/local/src)
+  src: /usr/local/src
+  
+  # specify scheme to use in git clone (default: git)
+  scheme: git
+
+  # install version (default: HEAD)
+  version: 2.1.1
+```
 
 ## Development
 
