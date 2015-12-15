@@ -2,6 +2,8 @@
 
 [Itamae](https://github.com/itamae-kitchen/itamae) plugin to install [tig](https://github.com/jonas/tig)
 
+[![Dependency Status](https://gemnasium.com/sue445/itamae-plugin-recipe-tig.svg)](https://gemnasium.com/sue445/itamae-plugin-recipe-tig)
+
 ## Installation
 
 Add this line to your application's Gemfile:
