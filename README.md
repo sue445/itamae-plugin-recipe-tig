@@ -5,6 +5,8 @@
 [![Gem Version](https://badge.fury.io/rb/itamae-plugin-recipe-tig.svg)](https://badge.fury.io/rb/itamae-plugin-recipe-tig)
 [![Dependency Status](https://gemnasium.com/sue445/itamae-plugin-recipe-tig.svg)](https://gemnasium.com/sue445/itamae-plugin-recipe-tig)
 
+[![wercker status](https://app.wercker.com/status/c59024592cbde003c22281c34332be02/m "wercker status")](https://app.wercker.com/project/bykey/c59024592cbde003c22281c34332be02)
+
 ## Installation
 
 Add this line to your application's Gemfile:
