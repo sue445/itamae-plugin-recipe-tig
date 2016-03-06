@@ -8,7 +8,7 @@ node.reverse_merge!(
 
 package "git"
 package "gcc"
-package "automake"
+package "make"
 
 case node[:platform]
 when "debian", "ubuntu"
