@@ -14,6 +14,7 @@ package "make"
 case node[:platform]
 when "debian", "ubuntu"
   package "libncursesw5-dev"
+  package "pkg-config"
 when 'redhat'
   package "ncurses-devel"
 end
