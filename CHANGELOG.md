@@ -1,5 +1,17 @@
 # Change Log
 
+## [v0.1.2](https://github.com/sue445/itamae-plugin-recipe-tig/tree/v0.1.2) (2017/09/12)
+[Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.1...v0.1.2)
+
+**Merged pull requests:**
+
+- Resolved: failure make configure on debian8 [\#10](https://github.com/sue445/itamae-plugin-recipe-tig/pull/10) ([sue445](https://github.com/sue445))
+- Migrate to workflow [\#9](https://github.com/sue445/itamae-plugin-recipe-tig/pull/9) ([sue445](https://github.com/sue445))
+- \[CI\] Migrate to Docker [\#8](https://github.com/sue445/itamae-plugin-recipe-tig/pull/8) ([sue445](https://github.com/sue445))
+- Update box [\#7](https://github.com/sue445/itamae-plugin-recipe-tig/pull/7) ([sue445](https://github.com/sue445))
+- Remove unused file [\#6](https://github.com/sue445/itamae-plugin-recipe-tig/pull/6) ([sue445](https://github.com/sue445))
+- Support parallels CI [\#5](https://github.com/sue445/itamae-plugin-recipe-tig/pull/5) ([sue445](https://github.com/sue445))
+
 ## [v0.1.1](https://github.com/sue445/itamae-plugin-recipe-tig/tree/v0.1.1) (2016/03/06)
 [Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.0...v0.1.1)
 
