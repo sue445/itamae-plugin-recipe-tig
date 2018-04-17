@@ -17,6 +17,7 @@ when "debian", "ubuntu"
   package "pkg-config"
 when 'redhat'
   package "ncurses-devel"
+  package "which"
 end
 
 tig_dir = "#{node[:tig][:src]}/tig"
