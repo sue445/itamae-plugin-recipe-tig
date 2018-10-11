@@ -14,7 +14,7 @@ before_install:
 - gem update --system --no-document
 - gem install bundler --no-document
 script:
-- bundle exec itamae docker --node-yaml=recipes/node.yml recipes/install.rb --image=$IMAGE --tag itamae-plugin:latest
+- bundle exec itamae docker --node-yaml=spec/recipes/node.yml spec/recipes/install.rb --image=$IMAGE --tag itamae-plugin:latest
 - DOCKER_IMAGE=itamae-plugin:latest bundle exec rspec
 branches:
   only:
