@@ -1,5 +1,16 @@
 # Change Log
 
+## [v0.1.3](https://github.com/sue445/itamae-plugin-recipe-tig/tree/v0.1.3) (2018/10/11)
+[Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.2...v0.1.3)
+
+**Merged pull requests:**
+
+- Refactor spec and CI [\#15](https://github.com/sue445/itamae-plugin-recipe-tig/pull/15) ([sue445](https://github.com/sue445))
+- Fixed. can not install tig on AmazonLinux [\#14](https://github.com/sue445/itamae-plugin-recipe-tig/pull/14) ([sue445](https://github.com/sue445))
+- Dockerlize [\#13](https://github.com/sue445/itamae-plugin-recipe-tig/pull/13) ([sue445](https://github.com/sue445))
+- update Vagrantfile [\#12](https://github.com/sue445/itamae-plugin-recipe-tig/pull/12) ([sue445](https://github.com/sue445))
+- Update CI image [\#11](https://github.com/sue445/itamae-plugin-recipe-tig/pull/11) ([sue445](https://github.com/sue445))
+
 ## [v0.1.2](https://github.com/sue445/itamae-plugin-recipe-tig/tree/v0.1.2) (2017/09/12)
 [Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.1...v0.1.2)
 
