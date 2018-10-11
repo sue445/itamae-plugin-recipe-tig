@@ -15,7 +15,7 @@ case node[:platform]
 when "debian", "ubuntu"
   package "libncursesw5-dev"
   package "pkg-config"
-when 'redhat'
+when 'redhat', "amazon"
   package "ncurses-devel"
   package "which"
 end
