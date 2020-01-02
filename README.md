@@ -3,7 +3,7 @@
 [Itamae](https://github.com/itamae-kitchen/itamae) plugin to install [tig](https://github.com/jonas/tig)
 
 [![Gem Version](https://badge.fury.io/rb/itamae-plugin-recipe-tig.svg)](https://badge.fury.io/rb/itamae-plugin-recipe-tig)
-[![Build Status](https://travis-ci.org/sue445/itamae-plugin-recipe-tig.svg?branch=master)](https://travis-ci.org/sue445/itamae-plugin-recipe-tig)
+[![Build Status](https://github.com/sue445/itamae-plugin-recipe-tig/workflows/test/badge.svg?branch=master)](https://github.com/sue445/itamae-plugin-recipe-tig/actions?query=workflow%3Atest)
 
 ## Installation
 
