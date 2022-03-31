@@ -44,8 +44,8 @@ tig:
   # source dir (default: /usr/local/src)
   src: /usr/local/src
   
-  # specify scheme to use in git clone (default: git)
-  scheme: git
+  # specify scheme to use in git clone (default: https)
+  scheme: https
 
   # install version (default: HEAD)
   version: 2.1.1
