@@ -2,7 +2,7 @@ node.reverse_merge!(
   tig: {
     prefix:  "/usr/local",
     src:     "/usr/local/src",
-    scheme:  "git",
+    scheme:  "https",
   },
 )
 
