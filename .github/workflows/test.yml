@@ -23,7 +23,9 @@ jobs:
         ruby:
           - "2.3"
         image:
-          - debian:buster
+          - debian:bullseye
+          - debian:bookworm
+          - debian:trixie
           - amazonlinux:2
 
     steps:
