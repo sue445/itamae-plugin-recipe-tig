@@ -1,6 +1,12 @@
 # Change Log
 ## Unreleased
-[Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.6...master)
+[Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.7...master)
+
+## [v0.1.7](https://github.com/sue445/itamae-plugin-recipe-tig/releases/tag/v0.1.7) (2025/08/23)
+[Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.6...v0.1.7)
+
+* Migrate release_gem workflow to sue445/workflows (Also testing the gem release)
+  * https://github.com/sue445/itamae-plugin-recipe-tig/pull/76
 
 ## [v0.1.6](https://github.com/sue445/itamae-plugin-recipe-tig/releases/tag/v0.1.6) (2025/11/29)
 [Full Changelog](https://github.com/sue445/itamae-plugin-recipe-tig/compare/v0.1.5...v0.1.6)
